@@ -1,4 +1,5 @@
 # NTUT - OOP
+*Update: Nov. 1, 2021*
 
 ## Slides
 - [Course Information](https://www.slideshare.net/secret/yrwa4nudnq4UM7)
