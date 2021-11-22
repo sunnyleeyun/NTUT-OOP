@@ -1,5 +1,5 @@
 # NTUT - OOP
-*Update: Nov. 1, 2021*
+*Update: Nov. 22, 2021*
 
 ## Slides
 - [Course Information](https://www.slideshare.net/secret/yrwa4nudnq4UM7)
@@ -11,4 +11,7 @@
 
 ## Courses
 - [Playlist](https://www.youtube.com/playlist?list=PLATZXb7PTAqeGwUEdz_ro1U7To9d0r1vm)
+
+## Mid-Term 
+- [Mid-Term Hand Written Test](https://hackmd.io/h59Z6bp6S6WPA6tY_ActwQ)
 
