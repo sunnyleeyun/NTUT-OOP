@@ -11,7 +11,7 @@
 ## Courses
 - [Playlist](https://www.youtube.com/playlist?list=PLATZXb7PTAqeGwUEdz_ro1U7To9d0r1vm)
 
-## Mid-Term 
+## Exams
 - [Mid-Term Handwritten Exam](https://hackmd.io/@sunnyleeyun/r11KT0v_t)
 - [Final Handwritten Exam](https://hackmd.io/@sunnyleeyun/S1d09lz6K)
 
